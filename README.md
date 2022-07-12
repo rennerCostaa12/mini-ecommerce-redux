@@ -1,6 +1,8 @@
 # Mini-Ecommerce-Redux
 Mini ecommerce utilizando o Redux para estudos, ainda pretendo acrescentar mais funcionalidades.
 
+# Link do projeto: https://mini-ecommerce-redux.vercel.app/
+
 # Tecnologias Utilizadas
 <div style="margin: 20px;">
   <img align="center" alt="html5" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
