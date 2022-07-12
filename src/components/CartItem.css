@@ -1,0 +1,36 @@
+.list-product {
+    margin: 1rem 0;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.list-product img {
+    width: 70px;
+    height: 50px;
+}
+
+.list-product div h3 {
+    font-size: 14px;
+    font-weight: 500;
+    color: #2e2e2e;
+}
+
+.list-product div h5 {
+    font-weight: 400;
+    color: #6e6e6e;
+}
+
+.content-counter-products {
+    text-align: center;
+}
+
+.content-counter-products input {
+    width: 20%;
+}
+
+.price-final {
+    font-size: 15px;
+    color: #181818;
+}

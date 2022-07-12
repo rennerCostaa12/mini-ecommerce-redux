@@ -1,0 +1,24 @@
+.content-navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    background-color: aliceblue;
+    width: 100%;
+    height: 50px;
+    padding: 2rem 3rem;
+    z-index: 100;
+    font-family: 'Roboto';
+}
+
+.content-navigation ul {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 50px;
+}
+
+.content-navigation ul a {
+    text-decoration: none;
+    color: #2c2c2c;
+}
